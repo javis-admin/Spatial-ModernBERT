@@ -1,6 +1,6 @@
 # Spatial ModernBERT
 
-Official repository for the paper: **Spatial ModernBERT: Spatial-Aware Transformer for Table and Key-Value Extraction in Financial Documents at Scale**.
+Official repository for the paper: **[Spatial ModernBERT: Spatial-Aware Transformer for Table and Key-Value Extraction in Financial Documents at Scale](https://arxiv.org/abs/2507.08865)**.
 
 ## Coming Soon
 
