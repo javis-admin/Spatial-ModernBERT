@@ -60,7 +60,7 @@ Our system extends ModernBERT-base with:
 
 ### Spatial Embedding Computation
 
-For each token with bounding box coordinates (x_min, y_min, x_max, y_max):
+For each token with bounding box coordinates ($x_{min}$, $y_{min}$, $x_{max}$, $y_{max}$):
 
 1. **Coordinate Embedding**: Each coordinate is embedded into 128-dimensional vectors
 2. **Dimensional Features**: Width and height are computed and embedded separately
