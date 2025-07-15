@@ -85,37 +85,6 @@ For each token with bounding box coordinates (x_min, y_min, x_max, y_max):
 - **FinTabNet**: Financial table recognition
 - **PubTabNet**: Scientific table recognition
 
-## Applications
-
-### Financial Document Processing
-
-```python
-# Example: Invoice processing
-def process_invoice(image_path, model, processor):
-    # OCR extraction
-    ocr_results = extract_text_and_coords(image_path)
-    
-    # Model inference
-    predictions = model.predict(ocr_results)
-    
-    # Post-processing
-    structured_data = {
-        'invoice_number': extract_field(predictions, 'invoice_number'),
-        'date': extract_field(predictions, 'date'),
-        'items': extract_table(predictions, 'items'),
-        'total': extract_field(predictions, 'total')
-    }
-    
-    return structured_data
-```
-
-### Integration with Business Workflows
-
-- **Automated Invoice Processing**: Extract line items, totals, and metadata
-- **Audit Trail Generation**: Maintain structured records for compliance
-- **Data Analytics**: Convert documents to structured formats for analysis
-- **ERP Integration**: Direct integration with enterprise systems
-
 ## Citation
 
 If you find our paper and code useful in your research, please consider giving a star :star: and citation :pencil: :)
@@ -133,17 +102,6 @@ If you find our paper and code useful in your research, please consider giving a
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-## Contact
-
-For questions and support:
-- **Amrendra Singh**: amrendra.singh@javis.ai
-- **Maulik Shah**: maulik.shah@javis.ai
-- **GitHub Issues**: [Report issues](https://github.com/javis-admin/Spatial-ModernBERT/issues)
 
 ## Acknowledgments
 
