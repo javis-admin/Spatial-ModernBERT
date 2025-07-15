@@ -1,7 +1,7 @@
 # Spatial ModernBERT
 
 <p align="center">
-    <img src="https://via.placeholder.com/400x200/1e40af/ffffff?text=Spatial+ModernBERT" width="400"/>
+    <img src="Assets/Spatial-ModernBERT.png" width="400"/>
 </p>
 
 <p align="center">
