@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-        📑 <a href="http://arxiv.org/abs/2507.08865"><b>Paper</b></a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href="https://github.com/javis-admin/Spatial-ModernBERT">GitHub</a>&nbsp&nbsp | &nbsp&nbsp📊 <a href="#performance">Performance</a>&nbsp&nbsp
+        📑 <a href="http://arxiv.org/abs/2507.08865"><b>Paper</b></a>&nbsp&nbsp | &nbsp&nbsp📦 <a href="https://github.com/javis-admin/Spatial-ModernBERT">GitHub</a>&nbsp&nbsp | &nbsp&nbsp📊 <a href="#performance">Performance</a>&nbsp&nbsp
 </p>
 
 ## Introduction
