@@ -8,6 +8,7 @@
         📑 <a href="http://arxiv.org/abs/2507.08865"><b>Paper</b></a>&nbsp&nbsp | &nbsp&nbsp📦 <a href="https://github.com/javis-admin/Spatial-ModernBERT">GitHub</a>&nbsp&nbsp | &nbsp&nbsp📊 <a href="#performance">Performance</a>&nbsp&nbsp
 </p>
 
+
 ## Introduction
 
 **Spatial ModernBERT** is a transformer-based model designed for accurate table and key-value extraction from complex financial documents. By integrating spatial embeddings with the ModernBERT architecture, our model excels at processing structured documents such as invoices, purchase orders, and receipts.
